@@ -1,0 +1,46 @@
+#Head
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5vh;
+
+    background:steelblue;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+
+
+}
+
+
+.naz a{
+    margin-left: 100px;
+    font-size: large;
+     color: white;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.naz a:hover
+{
+    color:orange;
+    text-decoration: dotted;
+
+}
+
+img{
+    width: 100px;
+    height: 5vh;
+    display: flex;
+    object-fit: cover;
+}
+
+#Head p
+{
+    font-size: x-large;
+    font-family: serif;
+    color: antiquewhite;
+    
+
+}

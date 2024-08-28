@@ -1,0 +1,13 @@
+#sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
+#sign input
+{
+    margin-top: 20px;
+
+}

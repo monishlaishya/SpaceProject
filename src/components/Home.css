@@ -1,0 +1,32 @@
+#pic
+{
+    display: flex;
+    margin-top: 10vh;
+    padding-bottom: 80vh;
+}
+
+#pic img
+{
+    width: 220px;
+    height: 400px;
+
+}
+
+#pic img:hover
+{
+    animation:shake 1s;
+    animation-iteration-count: 40;
+
+}
+#Hea h1
+{
+    justify-content: center;
+    align-items: center;    
+    display: flex;
+    margin-top: 60px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:5vh
+
+
+}

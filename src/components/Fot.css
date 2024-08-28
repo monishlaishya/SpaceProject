@@ -1,0 +1,23 @@
+#Fot
+{
+    background-color: steelblue;
+ 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+
+
+
+
+
+}
+#Fot p
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: aliceblue;
+    font-family: sans-serif;
+    
+}

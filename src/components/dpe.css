@@ -1,0 +1,39 @@
+#dpe
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+
+}
+ #pe
+ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #pe img
+ {
+    width: 100%;
+    height: 45vh;
+
+ }
+ #ze p
+ {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: steelblue;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+ }
+
+ #dpe h1
+ {
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:5vh
+ }
